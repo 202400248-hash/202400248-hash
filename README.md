@@ -8,6 +8,7 @@
 <hr>
 
 <pre>
+	🚀 Bienvenido — soy Rosario Hernandez.  Diseño, estrategia, impacto y resultados. No solo desarrollo proyectos, creo experiencias que hacen crecer equipos y negocios.
 🎨 Fuerte enfoque en el diseño UI/UX, construyendo interfaces intuitivas con herramientas como Figma.
 📚 Me apasiona crear experiencias digitales funcionales, escalables y visualmente atractivas.
 🔭 Actualmente trabajo en aplicaciones web responsivas con diseños limpios y una arquitectura backend eficiente.
