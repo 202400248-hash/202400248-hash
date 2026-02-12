@@ -8,13 +8,25 @@
 <hr>
 
 <pre>
-	🚀 Bienvenido — soy Rosario Hernandez.  Diseño, estrategia, impacto y resultados. No solo desarrollo proyectos, creo experiencias que hacen crecer equipos y negocios.
-🎨 Fuerte enfoque en el diseño UI/UX, construyendo interfaces intuitivas con herramientas como Figma.
-📚 Me apasiona crear experiencias digitales funcionales, escalables y visualmente atractivas.
-🔭 Actualmente trabajo en aplicaciones web responsivas con diseños limpios y una arquitectura backend eficiente.
-🌱 Continúo aprendiendo nuevos frameworks, tendencias de diseño y mejores prácticas en el desarrollo web.
-🚩 Interesado en desarrollar soluciones web completas — desde el diseño de la interfaz hasta la funcionalidad del servidor.
+🚀 Hola — soy Rosario Hernández  
+Diseño, desarrollo y optimizo soluciones digitales con enfoque en impacto y resultados.
+
+🎨 Especialista en UI/UX  
+Creo interfaces intuitivas y visualmente atractivas utilizando herramientas como Figma, cuidando la experiencia del usuario en cada detalle.
+
+💻 Desarrollo Web Full-Stack  
+Construyo aplicaciones web responsivas con arquitecturas backend eficientes y escalables.
+
+🧠 Aprendizaje continuo  
+Siempre explorando nuevos frameworks, tendencias de diseño y mejores prácticas de desarrollo.
+
+🛠️ Tecnologías y herramientas
+HTML • CSS • JavaScript • Bootstrap • PHP • MySQL • Git • GitHub • Figma • SQL Server
+
+📌 Enfoque actual
+Desarrollo de soluciones web completas — desde el diseño de interfaz hasta la lógica del servidor.
 </pre>
+
 <hr>
 <div align="center" width="100">
 
