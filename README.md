@@ -17,6 +17,9 @@
 </pre>
 <hr>
 <div align="center" width="100">
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=202400248-hash&theme=dark&hide_border=true&layout=compact&cache_seconds=1800"/></p>
   <!-- Lenguajes -->
 <h3>💻 Lenguajes</h3>
 
@@ -64,3 +67,4 @@
 </br>
 </br>
 </br>
+
